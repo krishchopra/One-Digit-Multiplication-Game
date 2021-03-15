@@ -1,6 +1,6 @@
 # One Digit Multiplication Game
 
-A console text-based 1 digit multiplication game! Enjoy.
+A text-based 1 digit multiplication game! Enjoy.
 
 **Gameplay Instructions:**
 
