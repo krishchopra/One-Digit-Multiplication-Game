@@ -1,7 +1,10 @@
-package projects;
-
 import java.util.Scanner;
 import java.util.ArrayList;
+
+/**
+ * Name: Krish Chopra
+ * Description: Text-based 1 digit multiplication game
+ */
 
 class MultiplicationGame {
 
